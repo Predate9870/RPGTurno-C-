@@ -1,0 +1,14 @@
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.AssemblyInfoInputs.cache
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.AssemblyInfo.cs
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE0_O\Desktop\RPGTurno\bin\Debug\net7.0\RPGTurno.exe
+C:\Users\FELIPE0_O\Desktop\RPGTurno\bin\Debug\net7.0\RPGTurno.deps.json
+C:\Users\FELIPE0_O\Desktop\RPGTurno\bin\Debug\net7.0\RPGTurno.runtimeconfig.json
+C:\Users\FELIPE0_O\Desktop\RPGTurno\bin\Debug\net7.0\RPGTurno.dll
+C:\Users\FELIPE0_O\Desktop\RPGTurno\bin\Debug\net7.0\RPGTurno.pdb
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.dll
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\refint\RPGTurno.dll
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.pdb
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\RPGTurno.genruntimeconfig.cache
+C:\Users\FELIPE0_O\Desktop\RPGTurno\obj\Debug\net7.0\ref\RPGTurno.dll
